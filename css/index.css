@@ -2352,7 +2352,7 @@ figure.highlight pre .javascript .function {
   margin: 0;
 }
 #recent-posts .recent-post-item >.recent-post-info > .article-meta-wrap .article-meta-label {
-  display: none;
+  padding-right: 4px;
 }
 #recent-posts .recent-post-item >.recent-post-info > .article-meta-wrap .article-meta-separator {
   margin: 0 6px;
@@ -3545,7 +3545,7 @@ figure.highlight pre .javascript .function {
   margin-right: 4px;
 }
 #post-info #post-meta .post-meta-label {
-  display: none;
+  margin-right: 4px;
 }
 #post-info #post-meta a {
   color: var(--light-grey);
